@@ -1,4 +1,4 @@
-# <a name="title">Taichi Voxel Challenge</a>
+# <a name="title">Taichi Voxel Challenge - My Demo</a>
 
 <p align="center">
 <img src="demo.jpg" width="75%"></img>
