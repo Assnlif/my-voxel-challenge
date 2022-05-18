@@ -1,14 +1,3 @@
-'''
-Author: Assnlif hrj1125@qq.com
-Date: 2022-05-02 22:06:52
-LastEditors: Assnlif hrj1125@qq.com
-LastEditTime: 2022-05-18 16:02:57
-FilePath: \voxel-challenge\main.py
-Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
-'''
-from cmath import sin
-
-from numpy import arcsin
 from scene import Scene
 import taichi as ti
 from taichi.math import *
